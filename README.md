@@ -20,4 +20,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ...
 
-<img src="./assets/images/mock-up.png" alt="Mock up image"/>
+
+
+
+<img src="challenges\Server-Side-APIs-Challenge-Weather-Dashboard\Assets\Images\Mock-up.png" alt="Mock up image"/>
